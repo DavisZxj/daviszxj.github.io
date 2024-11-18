@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle:
 
 profile:
   align: right
@@ -17,6 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 Hi there! I'm Davis Zhang, a senior studying Computer Science at University of Illinois Urbana-Champaign (UIUC), and an [IBM-Illinois Discovery Accelerator Institute](https://discoveryacceleratorinstitute.grainger.illinois.edu/) scholar.
 
-In my undergraduate studies, I'm fortunate to work with Professor [Deepak Vasisht](https://deepakv.web.illinois.edu/) and Professor [Han Zhao](https://hanzhaoml.github.io/). My research interests lie in the intersection of machine learning and wireless sensing - how can machine learning techniques be incorporated to unleash the sensing capabilities of ubiquitous WiFi/6G signals?
+In my undergraduate studies, I'm fortunate to work with Professor [Deepak Vasisht](https://deepakv.web.illinois.edu/) and Professor [Han Zhao](https://hanzhaoml.github.io/). My research interests lie in the intersection of machine learning and wireless sensing - how can machine learning techniques be incorporated to unleash the sensing capabilities of ubiquitous WiFi/cellular signals?
 
 Outside of research, I enjoy watching and playing sports, especially tennis and basketball. My trademark dish to cook is tomatoes and eggs, and it has received rave reviews from my friends (willingly). 
