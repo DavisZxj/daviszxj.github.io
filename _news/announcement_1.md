@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-09-03
+date: 2024-11-17
 inline: true
 related_posts: false
 ---
 
-"Self-Supervised Learning across the Spectrum" is accepted to Remote Sensing!
+Website is live!
